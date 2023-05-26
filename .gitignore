@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+# Build directory
+build
+
+# Coverage directory
+coverage
+
+# .env file
+.env
