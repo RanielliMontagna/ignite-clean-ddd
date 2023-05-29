@@ -11,6 +11,9 @@
     "test": "vitest run",
     "test:watch": "vitest"
   },
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  },
   "devDependencies": {
     "@types/node": "^20.2.4",
     "prettier": "^2.8.8",
